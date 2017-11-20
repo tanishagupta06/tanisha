@@ -1,3 +1,5 @@
+//in this project we have creted a single frame having 7 buttons,4 labels and 4textboxs.Through which we can add,delete,search in the list and we can
+//move back and forth or move at top of list or at extreme end.
 package practical;
 
 import java.awt.Color;
